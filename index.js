@@ -1,1 +1,2 @@
 zhanglimin
+console.log(zhanglimin);
